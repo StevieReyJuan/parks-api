@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+fieldset {
+    margin: 0;
+    border: 0;
+}
+  
+.error-message {
+    color: red;
+}
+
+.hidden {
+    display: none;
+}
